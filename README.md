@@ -2,7 +2,7 @@
 
 > **No kernel. No systemd. No bloat. Just boot.**
 
-Welcome to the ultimate exercise in low-level minimalism. This repository contains the absolute smallest bootable artifacts possible in the x86 computing universe. When executed, these images trick the hardware into a hardware-level infinite loop (`jmp $`). Your emulator will boot into a black screen and utilize 100% of a single CPU core.
+This repository contains the absolute smallest bootable artifacts possible in the x86 computing universe. When executed, these images trick the hardware into a hardware-level infinite loop (`jmp $`). Your emulator will boot into a black screen and utilize 100% of a single CPU core.
 
 ---
 
